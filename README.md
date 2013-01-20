@@ -1,12 +1,13 @@
 CODE_VS_2.0
 ===========
 
-CODE VS 2.0予選コード (shohei909 予選総合4位、学生2位、決勝3位)
+CODE VS 2.0(http://codevs.jp/)
+予選コード (shohei909 予選総合4位、学生2位、決勝3位)
 
 ##開発環境
-言語:   C#
-OS:     Windows7
-IDE:    SharpDevelop
+言語:   C#  
+OS:     Windows7  
+IDE:    SharpDevelop  
 
 -------------
 
@@ -55,4 +56,4 @@ CodeVS2/Program.csで各サイズごとの分岐をしてる。
 連鎖の全体像を盤面のサイズに合わせて生成してくれるクラス。
 
 ###Model/ChainConfig.cs
-いろんな連鎖の設定の残骸たち。
+いろんな連鎖の設定の残骸たち。ボツ案の大ゲイマ、Large用の連鎖も一応入ってる。
