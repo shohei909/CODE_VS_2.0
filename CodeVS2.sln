@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{DA19454A-F50F-4CC0-8D95-4736F0131303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{C0FBA7BA-E2A2-4328-AF09-2095D5370EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeVS2", "CodeVS2\CodeVS2.csproj", "{8FE7FBC2-6BA7-4E6A-A78D-5B5E6305E845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA19454A-F50F-4CC0-8D95-4736F0131303}.Debug|x86.Build.0 = Debug|x86
+		{DA19454A-F50F-4CC0-8D95-4736F0131303}.Debug|x86.ActiveCfg = Debug|x86
+		{DA19454A-F50F-4CC0-8D95-4736F0131303}.Release|x86.Build.0 = Release|x86
+		{DA19454A-F50F-4CC0-8D95-4736F0131303}.Release|x86.ActiveCfg = Release|x86
+		{C0FBA7BA-E2A2-4328-AF09-2095D5370EF5}.Debug|x86.Build.0 = Debug|x86
+		{C0FBA7BA-E2A2-4328-AF09-2095D5370EF5}.Debug|x86.ActiveCfg = Debug|x86
+		{C0FBA7BA-E2A2-4328-AF09-2095D5370EF5}.Release|x86.Build.0 = Release|x86
+		{C0FBA7BA-E2A2-4328-AF09-2095D5370EF5}.Release|x86.ActiveCfg = Release|x86
+		{8FE7FBC2-6BA7-4E6A-A78D-5B5E6305E845}.Debug|x86.Build.0 = Debug|x86
+		{8FE7FBC2-6BA7-4E6A-A78D-5B5E6305E845}.Debug|x86.ActiveCfg = Debug|x86
+		{8FE7FBC2-6BA7-4E6A-A78D-5B5E6305E845}.Release|x86.Build.0 = Release|x86
+		{8FE7FBC2-6BA7-4E6A-A78D-5B5E6305E845}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
