@@ -4,6 +4,9 @@ CODE_VS_2.0
 CODE VS 2.0(http://codevs.jp/)
 予選コード (shohei909 予選総合4位、学生2位、決勝3位)
 
+実際に動かすとこんな連鎖になります。
+http://www.nicovideo.jp/watch/sm19873888 (ニコニコ動画)
+
 ##開発環境
 言語:   C#  
 OS:     Windows7  
