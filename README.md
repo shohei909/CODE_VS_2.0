@@ -6,7 +6,7 @@ CODE VS 2.0予選コード (shohei909 予選総合4位、学生2位、決勝3位
 ##開発環境
 言語:   C#
 OS:     Windows7
-IME:    SharpDevelop
+IDE:    SharpDevelop
 
 -------------
 
